@@ -19,3 +19,4 @@ The generated QR code can be downloaded and used for various purposes such as ma
 3. A QR code representing the entered information will be created and displayed.
 
 ## Application Output
+[![Qr-Code Output](https://github.com/KhushbooBansiwal/Qr-Code/blob/3ddf97d2f0fa1cfd5fdef21225f4b37d3c3f79df/output-qr-code.png)](https://github.com/KhushbooBansiwal/Qr-Code/blob/3ddf97d2f0fa1cfd5fdef21225f4b37d3c3f79df/output-qr-code.png)
